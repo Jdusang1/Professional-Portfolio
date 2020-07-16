@@ -31,3 +31,20 @@ h2 {
     
 
 }
+.full-section{
+    text-align: center;
+    width: 100%;
+    list-style-position: inside;
+    padding-top: 15px;
+  
+    
+}
+
+.menu{
+   
+
+}
+#navbar{
+    padding-bottom: 15px;
+    text-align: center;
+}
