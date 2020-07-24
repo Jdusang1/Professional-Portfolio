@@ -18,6 +18,10 @@ h2 {
     padding: calc(0.12 * 25vw) calc(0.07 * 25vw);
     
 }
+#icons {
+    color: black;
+
+}
 
 
 .imageLabel {
@@ -34,8 +38,9 @@ h2 {
 .full-section{
     text-align: center;
     width: 100%;
-    list-style-position: inside;
+    /* list-style-position: inside; */
     padding-top: 15px;
+   
   
     
 }
@@ -47,4 +52,5 @@ h2 {
 #navbar{
     padding-bottom: 15px;
     text-align: center;
+    
 }
